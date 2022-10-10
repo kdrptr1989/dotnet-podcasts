@@ -162,7 +162,7 @@ namespace Podcast.Infrastructure.Data.Migrations
                 columns: new[] { "CategoryId", "FeedId" },
                 values: new object[,]
                 {
-                   { new Guid("2f07481d-5f3f-4bbf-923f-60e62fcfe4e7"), new Guid("9bd02984-df0e-4bac-890a-a13ad7b3e2df") },
+                   { new Guid("a5ae013c-14a1-4c2d-a731-47fbbd0ba527"), new Guid("9bd02984-df0e-4bac-890a-a13ad7b3e2df") },
                     //{ new Guid("5f923017-86da-4793-9332-7b74197acc51"), new Guid("1d9a5366-4258-4355-9a04-80680d12e05c") },
                     //{ new Guid("bee871ad-750b-400b-91b0-c34056c92297"), new Guid("1d9a5366-4258-4355-9a04-80680d12e05c") },
                     //{ new Guid("a5ae013c-14a1-4c2d-a731-47fbbd0ba527"), new Guid("2a57fb68-8755-4d9a-a6ee-86bf106d7874") },
